@@ -1,0 +1,22 @@
+C:\Users\tutur\source\repos_cs\TP3\bin\Debug\TP3.exe.config
+C:\Users\tutur\source\repos_cs\TP3\bin\Debug\TP3.exe
+C:\Users\tutur\source\repos_cs\TP3\bin\Debug\TP3.pdb
+C:\Users\tutur\source\repos_cs\TP3\obj\Debug\TP3.csproj.AssemblyReference.cache
+C:\Users\tutur\source\repos_cs\TP3\obj\Debug\TP3.csproj.SuggestedBindingRedirects.cache
+C:\Users\tutur\source\repos_cs\TP3\obj\Debug\TP3.label_taux.resources
+C:\Users\tutur\source\repos_cs\TP3\obj\Debug\TP3.Properties.Resources.resources
+C:\Users\tutur\source\repos_cs\TP3\obj\Debug\TP3.csproj.GenerateResource.cache
+C:\Users\tutur\source\repos_cs\TP3\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+C:\Users\tutur\source\repos_cs\TP3\obj\Debug\TP3.exe
+C:\Users\tutur\source\repos_cs\TP3\obj\Debug\TP3.pdb
+C:\Users\tutur\source\repos_cs\TP3 - Copie\bin\Debug\TP3.exe.config
+C:\Users\tutur\source\repos_cs\TP3 - Copie\bin\Debug\TP3.exe
+C:\Users\tutur\source\repos_cs\TP3 - Copie\bin\Debug\TP3.pdb
+C:\Users\tutur\source\repos_cs\TP3 - Copie\obj\Debug\TP3.csproj.AssemblyReference.cache
+C:\Users\tutur\source\repos_cs\TP3 - Copie\obj\Debug\TP3.csproj.SuggestedBindingRedirects.cache
+C:\Users\tutur\source\repos_cs\TP3 - Copie\obj\Debug\TP3.label_taux.resources
+C:\Users\tutur\source\repos_cs\TP3 - Copie\obj\Debug\TP3.Properties.Resources.resources
+C:\Users\tutur\source\repos_cs\TP3 - Copie\obj\Debug\TP3.csproj.GenerateResource.cache
+C:\Users\tutur\source\repos_cs\TP3 - Copie\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+C:\Users\tutur\source\repos_cs\TP3 - Copie\obj\Debug\TP3.exe
+C:\Users\tutur\source\repos_cs\TP3 - Copie\obj\Debug\TP3.pdb
