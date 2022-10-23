@@ -1,0 +1,11 @@
+C:\Users\tutur\source\repos_cs\TP5\bin\Debug\TP5.exe.config
+C:\Users\tutur\source\repos_cs\TP5\bin\Debug\TP5.exe
+C:\Users\tutur\source\repos_cs\TP5\bin\Debug\TP5.pdb
+C:\Users\tutur\source\repos_cs\TP5\obj\Debug\TP5.csproj.AssemblyReference.cache
+C:\Users\tutur\source\repos_cs\TP5\obj\Debug\TP5.csproj.SuggestedBindingRedirects.cache
+C:\Users\tutur\source\repos_cs\TP5\obj\Debug\TP5.Etat_civil.resources
+C:\Users\tutur\source\repos_cs\TP5\obj\Debug\TP5.Properties.Resources.resources
+C:\Users\tutur\source\repos_cs\TP5\obj\Debug\TP5.csproj.GenerateResource.cache
+C:\Users\tutur\source\repos_cs\TP5\obj\Debug\TP5.csproj.CoreCompileInputs.cache
+C:\Users\tutur\source\repos_cs\TP5\obj\Debug\TP5.exe
+C:\Users\tutur\source\repos_cs\TP5\obj\Debug\TP5.pdb
