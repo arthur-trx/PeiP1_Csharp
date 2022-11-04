@@ -23,6 +23,7 @@ namespace TP8
             temp[0] = textBoxLatitudeX.Text + textBoxLatitudeY.Text + textBoxLatitudeZ.Text;
             temp[1] = textBoxLongitudeX.Text + textBoxLongitudeY.Text + textBoxLongitudeZ.Text;
             return temp;
+            //idéalement il faudrait gérer les 0 
         }
 
 
