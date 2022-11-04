@@ -1,0 +1,12 @@
+C:\Users\arthur.tarroux\source\repos\TP8\TP8\bin\Debug\TP8.exe.config
+C:\Users\arthur.tarroux\source\repos\TP8\TP8\bin\Debug\TP8.exe
+C:\Users\arthur.tarroux\source\repos\TP8\TP8\bin\Debug\TP8.pdb
+C:\Users\arthur.tarroux\source\repos\TP8\TP8\obj\Debug\TP8.csproj.AssemblyReference.cache
+C:\Users\arthur.tarroux\source\repos\TP8\TP8\obj\Debug\TP8.csproj.SuggestedBindingRedirects.cache
+C:\Users\arthur.tarroux\source\repos\TP8\TP8\obj\Debug\TP8.Itinéraire.resources
+C:\Users\arthur.tarroux\source\repos\TP8\TP8\obj\Debug\TP8.Properties.Resources.resources
+C:\Users\arthur.tarroux\source\repos\TP8\TP8\obj\Debug\TP8.csproj.GenerateResource.cache
+C:\Users\arthur.tarroux\source\repos\TP8\TP8\obj\Debug\TP8.csproj.CoreCompileInputs.cache
+C:\Users\arthur.tarroux\source\repos\TP8\TP8\obj\Debug\TP8.exe
+C:\Users\arthur.tarroux\source\repos\TP8\TP8\obj\Debug\TP8.pdb
+C:\Users\arthur.tarroux\source\repos\TP8\TP8\obj\Debug\TP8.coordonnees.resources
