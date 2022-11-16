@@ -1,0 +1,11 @@
+C:\Users\tarro\Desktop\repos\repos_cs\bible2021\bible2021\bin\Debug\bible2021.exe.config
+C:\Users\tarro\Desktop\repos\repos_cs\bible2021\bible2021\bin\Debug\bible2021.exe
+C:\Users\tarro\Desktop\repos\repos_cs\bible2021\bible2021\bin\Debug\bible2021.pdb
+C:\Users\tarro\Desktop\repos\repos_cs\bible2021\bible2021\obj\Debug\bible2021.csproj.AssemblyReference.cache
+C:\Users\tarro\Desktop\repos\repos_cs\bible2021\bible2021\obj\Debug\bible2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\tarro\Desktop\repos\repos_cs\bible2021\bible2021\obj\Debug\bible2021.Form1.resources
+C:\Users\tarro\Desktop\repos\repos_cs\bible2021\bible2021\obj\Debug\bible2021.Properties.Resources.resources
+C:\Users\tarro\Desktop\repos\repos_cs\bible2021\bible2021\obj\Debug\bible2021.csproj.GenerateResource.cache
+C:\Users\tarro\Desktop\repos\repos_cs\bible2021\bible2021\obj\Debug\bible2021.csproj.CoreCompileInputs.cache
+C:\Users\tarro\Desktop\repos\repos_cs\bible2021\bible2021\obj\Debug\bible2021.exe
+C:\Users\tarro\Desktop\repos\repos_cs\bible2021\bible2021\obj\Debug\bible2021.pdb
