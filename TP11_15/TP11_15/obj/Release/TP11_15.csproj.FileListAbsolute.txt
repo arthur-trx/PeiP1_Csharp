@@ -1,0 +1,11 @@
+C:\Users\tarro\Desktop\repos\repos_cs\TP11_15\TP11_15\bin\Release\TP11_15.exe.config
+C:\Users\tarro\Desktop\repos\repos_cs\TP11_15\TP11_15\bin\Release\TP11_15.exe
+C:\Users\tarro\Desktop\repos\repos_cs\TP11_15\TP11_15\bin\Release\TP11_15.pdb
+C:\Users\tarro\Desktop\repos\repos_cs\TP11_15\TP11_15\obj\Release\TP11_15.csproj.AssemblyReference.cache
+C:\Users\tarro\Desktop\repos\repos_cs\TP11_15\TP11_15\obj\Release\TP11_15.csproj.SuggestedBindingRedirects.cache
+C:\Users\tarro\Desktop\repos\repos_cs\TP11_15\TP11_15\obj\Release\TP11_15.Form1.resources
+C:\Users\tarro\Desktop\repos\repos_cs\TP11_15\TP11_15\obj\Release\TP11_15.Properties.Resources.resources
+C:\Users\tarro\Desktop\repos\repos_cs\TP11_15\TP11_15\obj\Release\TP11_15.csproj.GenerateResource.cache
+C:\Users\tarro\Desktop\repos\repos_cs\TP11_15\TP11_15\obj\Release\TP11_15.csproj.CoreCompileInputs.cache
+C:\Users\tarro\Desktop\repos\repos_cs\TP11_15\TP11_15\obj\Release\TP11_15.exe
+C:\Users\tarro\Desktop\repos\repos_cs\TP11_15\TP11_15\obj\Release\TP11_15.pdb
