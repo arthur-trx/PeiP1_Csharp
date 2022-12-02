@@ -1,0 +1,13 @@
+C:\Users\tarro\Desktop\repos\repos_cs\DS3_BIBLE_2021\DS3_BIBLE_2021\obj\Debug\DS3_BIBLE_2021.csproj.AssemblyReference.cache
+C:\Users\tarro\Desktop\repos\repos_cs\DS3_BIBLE_2021\DS3_BIBLE_2021\obj\Debug\DS3_BIBLE_2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\tarro\Desktop\repos\repos_cs\DS3_BIBLE_2021\DS3_BIBLE_2021\obj\Debug\DS3_BIBLE_2021.Properties.Resources.resources
+C:\Users\tarro\Desktop\repos\repos_cs\DS3_BIBLE_2021\DS3_BIBLE_2021\obj\Debug\DS3_BIBLE_2021.csproj.GenerateResource.cache
+C:\Users\tarro\Desktop\repos\repos_cs\DS3_BIBLE_2021\DS3_BIBLE_2021\obj\Debug\DS3_BIBLE_2021.csproj.CoreCompileInputs.cache
+C:\Users\tarro\Desktop\repos\repos_cs\DS3_BIBLE_2021\DS3_BIBLE_2021\obj\Debug\DS3_BIBLE_2021.Form1.resources
+C:\Users\tarro\Desktop\repos\repos_cs\DS3_BIBLE_2021\DS3_BIBLE_2021\obj\Debug\DS3_BIBLE_2021.Form_add_plas.resources
+C:\Users\tarro\Desktop\repos\repos_cs\DS3_BIBLE_2021\DS3_BIBLE_2021\obj\Debug\DS3_BIBLE_2021.Form_add_repas.resources
+C:\Users\tarro\Desktop\repos\repos_cs\DS3_BIBLE_2021\DS3_BIBLE_2021\bin\Debug\DS3_BIBLE_2021.exe.config
+C:\Users\tarro\Desktop\repos\repos_cs\DS3_BIBLE_2021\DS3_BIBLE_2021\bin\Debug\DS3_BIBLE_2021.exe
+C:\Users\tarro\Desktop\repos\repos_cs\DS3_BIBLE_2021\DS3_BIBLE_2021\bin\Debug\DS3_BIBLE_2021.pdb
+C:\Users\tarro\Desktop\repos\repos_cs\DS3_BIBLE_2021\DS3_BIBLE_2021\obj\Debug\DS3_BIBLE_2021.exe
+C:\Users\tarro\Desktop\repos\repos_cs\DS3_BIBLE_2021\DS3_BIBLE_2021\obj\Debug\DS3_BIBLE_2021.pdb
